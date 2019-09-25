@@ -1,0 +1,18 @@
+html {
+    background-color: teal;
+}
+
+.first_class {
+    color: burlywood;
+}
+
+#myid{
+    color: green; 
+    position: sticky;
+    font-size: 50px; 
+}
+.thirdClass {color: chocolate}
+.second_class {font-style: oblique}
+#id2 {font-size: 50px}
+#id3 {font-size: 25px}
+#id4 {width: 75px; height: 75px;}
